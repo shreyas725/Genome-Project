@@ -1,4 +1,4 @@
-******************************************** Genome Project ***************************************************
+********************************************* Genome Project ***************************************************
 
 Sample project to find out pairwise relationships and correlation between chemicals, genes and protein marker datasets
 
